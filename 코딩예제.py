@@ -6,3 +6,6 @@ print('두 숫자의 합은 %d' % (int(number[0]) + int(number[1])))
 height = input('키를 미터 단위로 입력하세요 : ')
 weight = input('몸무게를 킬로 단위 입력하세요 : ')
 print('당신의 bmi는 {:.2f} 입니다.' .format((float(weight)) / (float(height)**2)))
+
+# BMI = (float(weight)) / (float(height)**2)
+# print(f'당신의 bmi는 {round(BMI,2)} 입니다.')
