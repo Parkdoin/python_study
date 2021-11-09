@@ -1,9 +1,9 @@
-# # 주석은 #, ctrl+/
-# print('문자열출력')
+# 주석은 #, ctrl+/
+print('문자열출력')
 
-# # 입력
-# x = input('입력할 내용 : ')
-# print(x)
+# 입력
+x = input('입력할 내용 : ')
+print(x)
 
 # 예제
 name = input('당신의 이름은 ? ')
