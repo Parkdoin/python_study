@@ -18,7 +18,7 @@
 # names = name_string.split(",")
 
 # #n = random.choice(names)
-# n = random.randint(0, len(names))
+# n = random.randint(0, len(names)-1)
 # print(f"오늘의 점심은 {names[n]}님이 쏩니다.")
 
 # # 예제 2
