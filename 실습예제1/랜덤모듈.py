@@ -109,3 +109,5 @@ for n in student_scores:
 
 print(f'가장 높은 점수는 : {highest_score}')
 print(f'가장 낮은 점수는 : {lowest_score}')
+
+
