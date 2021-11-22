@@ -48,8 +48,8 @@
 #     print(f'2 x {i} = {2*i}')
     
 # 예제1 구구단
-for i in range(2,10):
-    print( )
-    for j in range(1,10):
-        print(f'{i} x {j} = {i*j}', end='  ')
+for i in range(1,10):
+    for j in range(2,10):
+        print(j, 'x', i, '=', j*i, end='\t')
+    print()
     
