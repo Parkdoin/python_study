@@ -6,3 +6,6 @@ import hello
 print('main.py __name__ :', __name__) # __name__변수 출력
 
 # __main__이라는 값은 현재 실행되는 파일의 __name__이라는 변수에 할당됨
+
+
+
